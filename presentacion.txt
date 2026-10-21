@@ -1,1 +1,2 @@
 Hola, soy estudiante de 1 DAM
+Git me permite guardar diferentes versiones de mis archivos.
