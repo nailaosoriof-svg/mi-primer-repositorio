@@ -1,2 +1,2 @@
-Hola, soy estudiante de 1 DAM
+Hola, soy estudiante de 1.º DAM o DAW y me gusta programar.
 Git me permite guardar diferentes versiones de mis archivos.
